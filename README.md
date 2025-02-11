@@ -1,0 +1,2 @@
+# diveIntoOpenCV
+一些openCV常用代码和笔记还有几个实战项目
